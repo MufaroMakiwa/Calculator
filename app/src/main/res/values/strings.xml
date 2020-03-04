@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="divide">\u00F7</string>
+    <string name="arrowtop">\u25b2</string>
+    <string name="arrowleft">\u25c0</string>
+    <string name="arrowright">\u25b6</string>
+    <string name="arrowbottom">\u25bc</string>
+    <string name="plusOrminus">\u00b1</string>
+    <string name="pi">\u03c0</string>
+    <string name="squareroot">\u221a</string>
+    <string name="yToTheX">y\u02e3</string>
+    <string name="inverse">x\u207b\u00b9</string>
+    <string name="exponent">e\u02e3</string>
+    <string name="squareNum">x\u00b2</string>
+</resources>
